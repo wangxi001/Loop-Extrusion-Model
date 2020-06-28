@@ -1,2 +1,5 @@
 # Loop Extrusion Mathematical Model
-A mathematical model predicts CTCF interaction specificity based on loop extrusion model
+A mathematical model predicts CTCF interaction specificity based on loop extrusion model.
+
+##Running model
+
