@@ -8,4 +8,5 @@ The following command runs loop extrusion model with this input file at 1/[CTCF]
 
     python3 LEmodel.py GM12878_hg19_training_with_label_chr1.txt output 8.5 3 3000000
 
-
+## Authors
+Wang Xi, Michael A Beer
