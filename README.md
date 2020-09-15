@@ -3,9 +3,8 @@ A mathematical model predicts CTCF interaction specificity based on loop extrusi
 
 Requires:
 
-Python (tested 3.7.3)
-
-sklearn (tested 0.21.2)
+* Python (tested 3.7.3)
+* sklearn (tested 0.21.2)
 
 ## Running model
 An input file example for all CTCF pair within 1 Mb on GM12878 chromosome 1 is provided.
