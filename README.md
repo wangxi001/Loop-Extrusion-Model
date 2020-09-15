@@ -13,5 +13,7 @@ The following command runs loop extrusion model with this input file at w = 3, 1
 
     python3 LEmodel.py GM12878_hg19_CTCF_chr1.bed GM12878_hg19_training_with_label_chr1.txt output 3 8.5 3000000
 
+AUPRC on this example should be 0.6087.
+
 ## Authors
 Wang Xi, Michael A Beer
