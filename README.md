@@ -2,7 +2,9 @@
 A mathematical model predicts CTCF interaction specificity based on loop extrusion model.
 
 Requires:
+
 Python (tested 3.7.3)
+
 sklearn (tested 0.21.2)
 
 ## Running model
