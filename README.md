@@ -7,7 +7,7 @@ Requires:
 * sklearn (tested 0.21.2)
 
 ## Running model
-An input file example for all CTCF pair within 1 Mb on GM12878 chromosome 1 is provided.
+Example training input files for all CTCF peaks and pairs within 1 Mb on GM12878 chromosome 1 are provided.
 
 The following command runs loop extrusion model with this input file at w = 3, 1/[CTCF] = 8.5, lambda = 3,000,000, and writes to a file named 'output'.
 
