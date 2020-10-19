@@ -53,4 +53,4 @@ for l in f_training:
 		y_true.append(int(i[9]))
 		y_pred.append(p_ij*ori*lc)
 
-print('%.4f'%average_precision_score(y_true,y_pred))
+print('AUPRC: %.4f'%average_precision_score(y_true,y_pred))
